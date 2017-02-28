@@ -1,0 +1,8 @@
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Data\bin\Debug\Assigment.Data.dll
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Data\bin\Debug\Assigment.Data.pdb
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Data\bin\Debug\Dapper.dll
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Data\bin\Debug\Dapper.pdb
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Data\bin\Debug\Dapper.xml
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Data\obj\Debug\Assigment.Data.dll
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Data\obj\Debug\Assigment.Data.pdb
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Data\obj\Debug\Assigment.Data.csprojResolveAssemblyReference.cache

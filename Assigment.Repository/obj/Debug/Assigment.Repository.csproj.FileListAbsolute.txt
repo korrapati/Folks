@@ -1,0 +1,14 @@
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Repository\bin\Debug\Assigment.Repository.dll
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Repository\bin\Debug\Assigment.Repository.pdb
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Repository\bin\Debug\Assigment.Data.dll
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Repository\bin\Debug\Assigment.Interface.dll
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Repository\bin\Debug\Assignment.Models.dll
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Repository\bin\Debug\Dapper.dll
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Repository\bin\Debug\Assigment.Data.pdb
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Repository\bin\Debug\Assigment.Interface.pdb
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Repository\bin\Debug\Assignment.Models.pdb
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Repository\bin\Debug\Dapper.pdb
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Repository\bin\Debug\Dapper.xml
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Repository\obj\Debug\Assigment.Repository.csprojResolveAssemblyReference.cache
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Repository\obj\Debug\Assigment.Repository.dll
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Repository\obj\Debug\Assigment.Repository.pdb

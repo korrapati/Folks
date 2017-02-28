@@ -1,0 +1,7 @@
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Interface\bin\Debug\Assigment.Interface.dll
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Interface\bin\Debug\Assigment.Interface.pdb
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Interface\bin\Debug\Assignment.Models.dll
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Interface\bin\Debug\Assignment.Models.pdb
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Interface\obj\Debug\Assigment.Interface.csprojResolveAssemblyReference.cache
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Interface\obj\Debug\Assigment.Interface.dll
+c:\users\vpatil\documents\visual studio 2015\Projects\Assigment.Web\Assigment.Interface\obj\Debug\Assigment.Interface.pdb
